@@ -6,7 +6,7 @@ h1{
     font-size: 50px;
 }
 p{
-    text-orientation: sideways;
+    text-align: justify;
 }
 
 .orange-color{
@@ -71,4 +71,8 @@ p{
     border-left: 7px solid;
     border-image: linear-gradient(salmon, tomato);
     border-image-slice: 1 ;
+}
+footer p{
+    text-align: center;
+    
 }
